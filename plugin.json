@@ -1,0 +1,7 @@
+{
+  "name": "aws-plugin",
+  "version": "1.0.0",
+  "description": "AWS skills and MCP server configuration for Antigravity AI agent.",
+  "author": "Antigravity",
+  "disabled": false
+}
